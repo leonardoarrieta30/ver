@@ -1,0 +1,66 @@
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.deps.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.runtimeconfig.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.AssemblyReference.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfoInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfo.cs
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CoreCompileInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CopyComplete
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\refint\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.genruntimeconfig.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Domain\obj\Debug\net6.0\ref\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.deps.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.runtimeconfig.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.AssemblyReference.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfoInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfo.cs
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CoreCompileInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CopyComplete
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\refint\Music4All.Domain.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.genruntimeconfig.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Domain\obj\Debug\net6.0\ref\Music4All.Domain.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.deps.json
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.runtimeconfig.json
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Domain.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\bin\Debug\net6.0\Music4All.Shared.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.AssemblyInfo.cs
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.csproj.CopyComplete
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\refint\Music4All.Domain.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\Music4All.Domain.genruntimeconfig.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Domain\obj\Debug\net6.0\ref\Music4All.Domain.dll

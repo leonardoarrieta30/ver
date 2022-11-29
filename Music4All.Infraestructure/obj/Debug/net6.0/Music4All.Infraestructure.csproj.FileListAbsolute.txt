@@ -1,0 +1,42 @@
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.deps.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.runtimeconfig.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.AssemblyReference.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfoInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfo.cs
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\refint\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.genruntimeconfig.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All-grupo\Music4All.Infraestructure\obj\Debug\net6.0\ref\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.deps.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.runtimeconfig.json
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.AssemblyReference.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfoInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfo.cs
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.CoreCompileInputs.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\refint\Music4All.Infraestructure.dll
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.pdb
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.genruntimeconfig.cache
+D:\Jetbrains-p\Rider\Aplicaciones-Web-SI730-2202-WS52-Back-End-18\Back-end-Music4All\Music4All.Infraestructure\obj\Debug\net6.0\ref\Music4All.Infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.deps.json
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.runtimeconfig.json
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\bin\Debug\net6.0\Music4All.Infraestructure.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.AssemblyReference.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfoInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.AssemblyInfo.cs
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.csproj.CoreCompileInputs.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\refint\Music4All.Infraestructure.dll
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.pdb
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\Music4All.Infraestructure.genruntimeconfig.cache
+C:\Users\leona\Desktop\Aplicaciones web\Back-end-Music4Allzzz\Music4All.Infraestructure\obj\Debug\net6.0\ref\Music4All.Infraestructure.dll
